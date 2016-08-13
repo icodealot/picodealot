@@ -1,0 +1,11 @@
+{
+  "name": "json2sql",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "icodealot@gmail.com",
+  "license": "ISC"
+}

@@ -1,0 +1,3 @@
+# Files to ignore in this project
+**/node_modules/**
+
